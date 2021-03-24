@@ -1,4 +1,4 @@
-- 👋 CEPL Repository
+- 👋 CEPL Developer Account
 - 📫 Software@confidentelectronics.com
 
 <!---
